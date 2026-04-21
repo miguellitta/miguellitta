@@ -12,4 +12,4 @@ Soy estudiante de Ingeniería en Sistemas en la UTN San Nicolás y desarrollador
 Desarrollando soluciones web para clientes reales mientras curso Ingeniería en Sistemas. Abierto a oportunidades como desarrollador junior.
 
 ### 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Litta-blue)](https://linkedin.com/in/miguellitta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Litta-blue)](https://linkedin.com/in/miguel-litta)
